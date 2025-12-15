@@ -37,7 +37,7 @@ This app allows users to clean, preprocess, and export datasets **without writin
 
 ## ▶️ How to Run the Application
 
-### 1️⃣ Clone the repository
+### 1️⃣ Clone the repository, 2️⃣ Install dependencies, 3️⃣ Run the Streamlit app
 ```bash
 git clone https://github.com/YourUsername/Advanced_Data_Cleaning_Platform.git
 cd Advanced_Data_Cleaning_Platform
