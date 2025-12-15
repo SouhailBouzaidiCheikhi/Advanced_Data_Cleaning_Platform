@@ -34,3 +34,14 @@ This app allows users to clean, preprocess, and export datasets **without writin
 ## 📸 Demo
 
 <img width="3839" height="1903" alt="image" src="https://github.com/user-attachments/assets/89155ece-fa0d-4075-9db0-f67732acdd39" />
+
+## ▶️ How to Run the Application
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/YourUsername/Advanced_Data_Cleaning_Platform.git
+cd Advanced_Data_Cleaning_Platform
+
+pip install -r requirements.txt
+
+streamlit run app.py
